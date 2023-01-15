@@ -2,9 +2,9 @@
 # Boleh Recode Tapi Tambahkan Author asli
 
 # [+]-------------------------------------------[+]
-#  | Creator : AmmarBN X RahmX403   		         |
-#  | Github : https://github.com/liaacanss        |
-#  | Powered By Kalteng Cyber Xploit			 |
+#  | Creator : Rhm X RahmX403   		         |
+#  | Github : https://github.com/treomr        |
+#  | Powered By Code0425			 |
 # [+]-------------------------------------------[+]
 
 # Install Modules
@@ -133,9 +133,9 @@ def banner():
              {biru}╚═╝{putih}┴└─└─┘ ┴ ┴ ┴┴─┘      {ungu}╚═╝{putih}┴ ┴└─┘
      \033[1;0m──────────────────────────┬─────────────────────────
   \033[1;0m┌────────────────────────────┼───────────────────────────┐
-  {W}│ Creator{R}:{W}Aulia R.           │ Version {R}:{G} 3.0{W}             │
-  {W}│ Github{R}:{G}github.com/liaacanss{W}│ {W}Your Ip {R}:{Y} {ip}  {W}│
-  {W}│ Team{R}:{W}Kalteng Cyber {biru}Xploit  {W}│ Perfect Brutal {biru}Sms Tools  {W}│
+  {W}│ Creator{R}:{W}Rahman           │ Version {R}:{G} 3.0{W}             │
+  {W}│ Github{R}:{G}github.com/treomr{W}│ {W}Your Ip {R}:{Y} {ip}  {W}│
+  {W}│ Team{R}:{W}Code0425 {biru}Xploit  {W}│ Perfect Brutal {biru}Sms Tools  {W}│
   └────────────────────────────┼───────────────────────────┘""")
 
 def banner2():
